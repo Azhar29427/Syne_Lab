@@ -1,2 +1,4 @@
 This is for training
 Change
+
+Changes checking for public keys
